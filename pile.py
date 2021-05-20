@@ -64,7 +64,7 @@ class Pile:
 
     def length(self):
         """
-        :returns:le nombre d'éléments de la pile
+        :returns: le nombre d'éléments de la pile
         """
         return self.__count
 
