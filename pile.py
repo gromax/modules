@@ -63,9 +63,9 @@ class Pile:
         self.__maxSize = maxSize
 
     def length(self):
-        '''
-        Retourne le nombre d'éléments de la pile
-        '''
+        """
+        :returns:le nombre d'éléments de la pile
+        """
         return self.__count
 
     def isEmpty(self):
